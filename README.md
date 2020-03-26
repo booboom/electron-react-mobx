@@ -90,3 +90,6 @@ npm run pack-mac
 ### 7.上手可用的DEMO
 
 窗口、通信、菜单、系统、弹框、打印、shell
+
+### mac解决vsCode mobx报错
+首选项 —— 设置  —— 搜索 experimentalDecorators  —— 设置为true
